@@ -9,7 +9,7 @@
 - 0x047A8AC14396604CE1BAB46366C0A7FDBE40F66264D4625E2E6D11FF17272D7F
   - "0x" is required for it to work, common error is to omit this and it will fail to decrypt
 Add usmap into settings 
-- https://github.com/ARC-Data-Raiders/DataRaiders/blob/main/5.3.2-1315578%2Bpioneer_1.36.x-PioneerGame_fixed.usmap
+- https://github.com/ARC-Data-Raiders/DataRaiders/blob/main/5.3.2-1341255%2Bpioneer_1.42.0-PioneerGame_merged.usmap
 
 Screenshot Guide
 https://imgur.com/a/pngSp3G
